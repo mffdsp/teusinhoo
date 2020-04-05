@@ -10,5 +10,5 @@ function formatCep(value){
 }   
 
 
-console.log(formatCep(5712000));
+console.log(formatCep(57120));
  
